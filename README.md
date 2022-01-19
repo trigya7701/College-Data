@@ -12,6 +12,7 @@ Php mysql application to perform CRUD operations having functionality such as AD
  
  <br>
  <br>
+ 
  ### Adding new  data
   <div float="left">
 <img src="https://github.com/trigya7701/College-Data/blob/881b990d3574f0c2706b29916e0c70373711f638/images/Add.jpg" width=480>
